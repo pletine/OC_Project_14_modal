@@ -29,3 +29,14 @@ And declare the modal
 
 The h2 and p are children you can change with your own content.
 The rest of the component is not customizable.
+
+## Style
+
+The modal structure is one div for the global modal and one div for the content.
+The default className of the modal is `modal` and the default className of the content is `modal-content`.
+
+To change the default style of the modal, you can override the CSS variables in your own CSS file.
+
+You can change the className of the modal with the props `classModalName` and `classModalContent` to add your own style.
+
+You can also add style variables with props `styleModal` and `styleModalContent`.

@@ -1,6 +1,6 @@
 {
   "name": "pierreletine-modal",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "private": false,
   "main": "dist/modal.js",
   "module": "dist/modal.js",
